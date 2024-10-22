@@ -37,7 +37,7 @@ I'm Erik, a passionate cybersecurity professional. I specialize in vulnerability
 - Sent automated alerts via email to allow further investigation of potential compromises.
 
 ### 4. Global Attack Data Visualization Using Azure Sentinel
-**Source:** [GitHub Repository](https://github.com/savatexl47/global-attack-data-visualization)
+**Source:** [GitHub Repository](https://github.com/savatexl47/Azure-Sentinel)
 
 **Technologies Used:** Windows 10, PowerShell, Azure Log Analytics, Azure Sentinel, Third-party Geolocation API
 
